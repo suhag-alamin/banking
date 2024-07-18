@@ -55,7 +55,7 @@ Cloning the Repository
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/suhag-alamin/banking
+git clone https://github.com/suhag-alamin/banking.git
 cd banking
 ```
 
